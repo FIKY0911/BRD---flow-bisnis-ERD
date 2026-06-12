@@ -128,7 +128,7 @@ AnalysisResult ||--o{ Recommendation
 
 ## Image
 
-![ERD Diagram](BRD/docs/ERD.png)
+![ERD Diagram](./docs/ERD.png)
 
 
 
